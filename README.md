@@ -11,7 +11,7 @@
 - **[BMW Global Sales Dashboard](https://github.com/deephaldankar1135/BMW-Global-Sales-Performance-Dashboard-2010-2024-)** → Tableau | 15-year electrification insights
 - **[Global Video Games Sales](https://github.com/deephaldankar1135/Global-Video-Games-Sales-Dashboard-1980-2024)** → Power BI | 44 years of industry trends
 - **[Parle Business Performance 2024](https://github.com/deephaldankar1135/Parle-Business-Performance-Analysis-2024)** → Excel | Live retail analytics
-- 
+
 ### 📈 What I'm Learning Next
 - Advanced Data modeling & storytelling in Power BI & Tableau
 - Advanced Excel techniques: Power Query, Power Pivot & dynamic dashboards
